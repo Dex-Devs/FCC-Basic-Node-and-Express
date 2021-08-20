@@ -82,9 +82,6 @@ app.route("/name").get((req, res) => {
   })
 })
 
-
-
-
 // console.log("Hello World");
 
 
